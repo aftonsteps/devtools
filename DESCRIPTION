@@ -67,7 +67,7 @@ Suggests:
 VignetteBuilder: 
     knitr
 Remotes: 
-    r-lib/testthat
+    aftonsteps/testthat
 Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
